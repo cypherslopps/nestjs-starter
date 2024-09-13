@@ -1,1 +1,6 @@
-#Learning Nestjs
+# Learning Nestjs
+- Modules
+- Controllers
+- Services
+- Providers
+- Middlewares
